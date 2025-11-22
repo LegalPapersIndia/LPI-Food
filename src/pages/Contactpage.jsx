@@ -121,8 +121,7 @@ export default function ContactUs() {
             <div className="mt-12">
               <h3 className="text-3xl font-bold text-amber-300 mb-6">Find Us Here</h3>
               <div className="rounded-3xl overflow-hidden border-4 border-amber-800/50 shadow-2xl shadow-orange-600/20">
-                <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.098997289414!2d77.326939615074!3d28.614439982420!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce5b9b8b8b8b9%3A0x9c8b8b8b8b8b8b8b!2sSector%208%2C%20Noida%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1698000000000"
+               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3366.3033497832166!2d77.31967657533406!3d28.595428075685028!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2290a24adc2aa39f%3A0x6393f050e681d51e!2sLegal%20Papers%20India!5e1!3m2!1sen!2sin!4v1763811705013!5m2!1sen!2sin"
                   width="100%"
                   height="400"
                   style={{ border: 0 }}
