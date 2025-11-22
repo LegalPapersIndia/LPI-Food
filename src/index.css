@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* Default light mode */
+body {
+  @apply bg-white text-gray-900;
+}
+
+/* Dark mode */
+.dark body {
+  @apply bg-gray-900 text-white;
+}
+
+/* Or use this if you prefer class-based (recommended) */
+.dark {
+  color-scheme: dark;
+}
