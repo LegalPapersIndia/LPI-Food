@@ -3,9 +3,9 @@ import { Star } from 'lucide-react';
 
 export default function Testimonials() {
   const reviews = [
-    { name: "Sophia Martinez", rating: 5, text: "Best dining experience of my life. The wagyu melted in my mouth!" },
-    { name: "David Kim", rating: 5, text: "Impeccable service, stunning ambiance, and flavors I'll never forget." },
-    { name: "Emma Wilson", rating: 5, text: "Celebrated my anniversary here — they made it magical. Thank you!" }
+    { name: "Rahul Singh", rating: 5, text: "Best dining experience of my life. The wagyu melted in my mouth!" },
+    { name: "Sarthak Garg", rating: 5, text: "Impeccable service, stunning ambiance, and flavors I'll never forget." },
+    { name: "Udit Narayan Saxena", rating: 5, text: "Celebrated my anniversary here — they made it magical. Thank you!" }
   ];
 
   return (
